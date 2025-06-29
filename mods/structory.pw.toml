@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "fa3afdcb1c830536049d4a9282d9101d350eb1ad"
-mode = "metadata:curseforge"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Structory_1.21.x_v1.3.10.jar"
 
 [update]
 [update.curseforge]
