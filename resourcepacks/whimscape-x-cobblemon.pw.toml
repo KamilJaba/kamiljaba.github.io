@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "2fdb34e08f0400674b9011ea6a2698003e065fb5"
-mode = "metadata:curseforge"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Whimscape x Cobblemon v1.6.1.zip"
 
 [update]
 [update.curseforge]
