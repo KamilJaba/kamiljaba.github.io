@@ -1,11 +1,11 @@
 name = "Mayview UI"
-filename = "Mayview UI 1.0.0.zip"
+filename = "Mayview_UI_1.0.0.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
 hash = "6accd51d4fbcac5a899068998b1d72d46e27bf97"
-mode = "metadata:curseforge"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Mayview_UI_1.0.0.zip"
 
 [update]
 [update.curseforge]
