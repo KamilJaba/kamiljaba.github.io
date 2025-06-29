@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "9a24fe4bda0b33be9ed872088f04601a1f49aa0f"
-mode = "metadata:curseforge"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/cute_companions_ducks-0.0.2-neoforge-1.21.1.jar"
 
 [update]
 [update.curseforge]
