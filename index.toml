@@ -1622,6 +1622,74 @@ file = "emi.json"
 hash = "0108bff806398ed6df979fa51536ad02a68aaf70d98c57e96d12ed580f1bebad"
 
 [[files]]
+file = "extra_needed_mods/mayestview1.0/Design-n-Decor-1.21.1-2.0.2.jar"
+hash = "ba9420af93581165f6f55f352e00d4d7bd7ff7639d6059d937179284c0782051"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Mayview UI 1.0.0.zip"
+hash = "966da08d57f8aa3b16953ff26e0b707620d1aa25e4fe82e340300fb530e88ac1"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Mayview_UI_1.0.0.zip"
+hash = "966da08d57f8aa3b16953ff26e0b707620d1aa25e4fe82e340300fb530e88ac1"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/SimpleTMs-neoforge-2.1.2.jar"
+hash = "ffac2850623f685a9f67648cc268d9a5ee506c2f18160fa574c0616554789ee7"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Structory_1.21.x_v1.3.11.jar"
+hash = "8a4853978067afdbbd731c9edc291630d292184455c0c6fbe7620cf918ba5fcb"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Whimscape-x-Exploration v1.0.zip"
+hash = "0c7cd7485fd2a90b894fd6d98ab834373b7ed79cb182ee8a0baa728c5588fee3"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Whimscape_1.20.2-1.21.6_r1.zip"
+hash = "8371ae1bc19fa79bc744389fb471ee3783e7ce4fbc78ad982e83a68fab6a711b"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Whimscape_x_Cobblemon v1.6.1.zip"
+hash = "4a5905b85ddffdfadbe8b3de028d0b97baab3534a287b2c88ec22fc428b7c8f6"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/Whimscape_x_Exploration v1.0.zip"
+hash = "0c7cd7485fd2a90b894fd6d98ab834373b7ed79cb182ee8a0baa728c5588fee3"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/bwncr-neoforge-1.21.1-3.20.3.jar"
+hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/create_ltab-2.7.8.jar"
+hash = "431f6f3702c196358a75431585bf6f82b0ed68ddc5c4cb465df8c02abc347198"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/create_structures_arise-160.33.32-neoforge-1.21.1.jar"
+hash = "8081f714d827563eb99dc5f3796395144eddb5f1237dca2b82715274b8e726f3"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/cute_companions_ducks-0.0.2-neoforge-1.21.1.jar"
+hash = "e4e4176b86fd162ce2f35122e8473df0baf5fd6f8c625861e1899ecf1806d1c0"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/entityculling-neoforge-1.8.0-mc1.21.jar"
+hash = "52076a30ca282711f147a626d7cae85c672b76ea42b6a0c3bc78aa5a10844862"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/rusticdelight-neoforge-1.21-1.4.2.jar"
+hash = "fbfa92092c1bb555331661babc0169fbaa9e7f30bec31ec1afb4db7922bcf27a"
+
+[[files]]
+file = "extra_needed_mods/mayestview1.0/yes.txt"
+hash = "8f770e3481e54a3f7b206acde71dc9bce617a7559ec197ac2a4baf5a24fef053"
+
+[[files]]
+file = "index.html"
+hash = "af9df90289b05f868f3466e248eedaf3968f0b7b1120f4ac06129ab0f951dc91"
+
+[[files]]
 file = "modlist.html"
 hash = "2c8037a89e8e17dc3dc2e383308654b873d3fa2531f0358a3029e3ef4d86ab9d"
 
@@ -1692,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "c3233ab72a796b7a0fcea7fa22b88ef5ee0512daf3c767be4f88e6e4f30881b0"
+hash = "194f9151b2730ecbc8f9fba9913e8ee160e035e0d9124c637351755f82789233"
 metafile = true
 
 [[files]]
@@ -1912,7 +1980,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "a5aef868749ee5f46aa3ae29664ca2155d4a27a56416a0aa88145f01fceb8c42"
+hash = "490bbc060f516d3287aa8e45bf23d6e79e00eb7696a19c905fa951340226aae6"
 metafile = true
 
 [[files]]
@@ -1942,7 +2010,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "2d25c50feac691050a77679d9799ed047d306226fd7779c0057604113f4d09f6"
+hash = "c79f39c8366d7252f1c6994a41574891a70fb44d2573312c1ac8872536b09c1c"
 metafile = true
 
 [[files]]
@@ -1967,7 +2035,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "5dd4e9fbf34126b2739817a0f390434dc841075d62474e65c7167b0b2ab4c19d"
+hash = "72a2f82831ad0109a2653b71a355a9c5c034a00e2343d7233744e727d04f3d64"
 metafile = true
 
 [[files]]
@@ -2022,7 +2090,7 @@ metafile = true
 
 [[files]]
 file = "mods/cute-companions-ducks.pw.toml"
-hash = "c63d930edae6b8faefd2197ea0078e202d6bf3c37ed86caf262d9f38126bbdd6"
+hash = "d57849b7a72fe1b6e271c13278ab7a0a4019d87c0c8247579a6f6bde1f1f1d52"
 metafile = true
 
 [[files]]
@@ -2092,7 +2160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b945b849d8570b452fae214ab90add58d7f421156f2dc46886fcd39c71c3d14e"
+hash = "104a62874dc79b9826cff342c66c7f3377b6f25f72d478577a4efe1e74e89639"
 metafile = true
 
 [[files]]
@@ -2597,7 +2665,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "a37e9ef75ca3097ae9e9319993d77364ca748d8c5f11f373852189fa65746caa"
+hash = "db707b497c47db19d8c37ea62d6d7c9b1fc29b9472e6dbd0114b6d2e0e1bb265"
 metafile = true
 
 [[files]]
@@ -2627,7 +2695,7 @@ metafile = true
 
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
-hash = "1a40ee0fdcbd94b87182b40ab7673c61f1e2778f8defca995e44b3eba6200d47"
+hash = "e44ed7b71360bcca154df2ee9fbb16c4c031f2c64d529811a96c43a393495d41"
 metafile = true
 
 [[files]]
@@ -2687,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "dbb08b67a58ecaa67889a928e785b498e3aa6ccdbe6354c01d942bdb58a17327"
+hash = "d6b876d3f0d403df3a7d9109f291145224db5dcb68520a94c6f5b89dc74a09a8"
 metafile = true
 
 [[files]]
@@ -2820,6 +2888,14 @@ file = "options.txt"
 hash = "7565bfbca3ac23222581e08649c49244362efc6cd806f39acf19f01bb4db4bbb"
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "resourcepacks/bcg-compatibility.pw.toml"
 hash = "4f1a4e9b29bdcadd00d87cb28dd3b3369ccae1da2e4b7e34b583f764ae849b04"
 metafile = true
@@ -2856,7 +2932,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mayview-ui.pw.toml"
-hash = "0c220bd1808ce6ef92b1b462cd86d8f1da49786764711b8b6c59a8276172a3e9"
+hash = "32ad17d9d9608c7f171d870983533a0b73bea69e6f9edd17c137524d3182fb45"
 metafile = true
 
 [[files]]
@@ -2866,17 +2942,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/whimscape-exploration.pw.toml"
-hash = "e6a69b029144409a58e321cdbd8f41ac66f0713aa6d1085a66131fed6b563c7d"
+hash = "9b3a5c8e6976d5e4aa1b6e5ca24da1e62659b6d806a144e3fafefca75abe0352"
 metafile = true
 
 [[files]]
 file = "resourcepacks/whimscape-x-cobblemon.pw.toml"
-hash = "70169a859ead15c640f4ad25870256f3d1a31db2ceb31180cc48d56e1385ea0c"
+hash = "9407da2a541bbe849217f5d66b20a0befb673f2f9812d0f945f7b863d400d57f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/whimscape.pw.toml"
-hash = "2462ba63a82dfdae09b56f68b8a9ae35cac427106659d685af35b1b2096c760f"
+hash = "2a6b2e35fd3677d7e39c751219d1ff0afef6fa4b85bc263735470572cbaebe90"
 metafile = true
 
 [[files]]
