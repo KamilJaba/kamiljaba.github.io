@@ -1,4 +1,4 @@
-ignoreUpdate:181
+ignoreUpdate:0
 updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
@@ -10,7 +10,7 @@ loadChunks:true
 updateChunks:true
 terrainSlopes:2
 terrainDepth:true
-footsteps:false
+footsteps:true
 flowers:true
 coordinates:true
 hoveredBiome:true

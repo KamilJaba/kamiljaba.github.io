@@ -1,10 +1,12 @@
-name = "MayviewServerEdit"
+name = "MayestView"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "47746811cdfaaddd5a0d37fe814a26d96627ac03458aa996c8ee1a7e15a2ce92"
+hash = "86d941c3294b5a8002ba27ac5e6c730308e8133e6f2cc54962222074a199db93"
 
 [versions]
 minecraft = "1.21.1"
+neoforge = "21.1.172"

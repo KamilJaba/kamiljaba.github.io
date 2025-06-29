@@ -132,29 +132,7 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: {
-			"creeperoverhaul:cave_creeper": true
-			"minecraft:spider": true
-			"minecraft:zombie": true
-			"minecraft:phantom": true
-			"minecraft:glow_squid": true
-			"minecraft:goat": true
-			"minecraft:chicken": true
-			"minecraft:pig": true
-			"minecraft:sheep": true
-			"minecraft:cow": true
-			"minecraft:horse": true
-			"minecraft:skeleton": true
-			"creeperoverhaul:dripstone_creeper": true
-			"minecraft:armadillo": true
-			"artifacts:mimic": true
-			"minecraft:bee": true
-			"minecraft:creeper": true
-			"minecraft:rabbit": true
-			"cobblemon:pokemon": true
-			"minecraft:squid": true
-			"minecraft:bat": true
-		}
+		entity_icon: { }
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5

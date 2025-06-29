@@ -1,13 +1,12 @@
 {
   "pointer": {
-    "x": 0.03125,
-    "y": 0.09375,
-    "size": 38,
-    "enabled": true,
+    "x": 1.0,
+    "y": 0.0,
+    "size": 32,
+    "enabled": false,
     "identifier": {
       "namespace": "minecraft",
-      "path": "cursor.png",
-      "cachedString": "minecraft:cursor.png"
+      "path": "textures/item/diamond_sword.png"
     }
   }
 }

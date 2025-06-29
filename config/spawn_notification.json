@@ -15,7 +15,10 @@
   "broadcastRange": -1,
   "playerLimit": -1,
   "labelsForBroadcast": [
-    "legendary"
+    "legendary",
+    "mythical",
+    "ultra_beast",
+    "paradox"
   ],
   "bucketsForBroadcast": [],
   "blacklistForBroadcast": [],
