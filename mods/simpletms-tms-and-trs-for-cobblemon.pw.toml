@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "3dc6996d184437d03ea7f4258d3cd3389cbe0b4a"
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/SimpleTMs-neoforge-2.1.2.jar"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

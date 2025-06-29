@@ -1,13 +1,13 @@
 name = "Joe's Ores"
-filename = "JOres 1.1.3.jar"
+filename = "ores-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "685d075ebb271e7b66e89fc5f24e20c5847bfc81"
+hash = "3938a1e45219d450455159d5814b7b8873a36a5d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6607727
+file-id = 6612612
 project-id = 1236198

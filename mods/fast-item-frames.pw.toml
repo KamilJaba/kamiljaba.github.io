@@ -1,13 +1,13 @@
 name = "Fast Item Frames"
-filename = "FastItemFrames-v21.1.3-1.21.1-NeoForge.jar"
+filename = "FastItemFrames-v21.1.4-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "909d8c987104733d3c86e4749140c6ad49b221a5"
+hash = "918fa0be62d4290f63ae6cacf3f8441fd1f3252d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6458757
+file-id = 6670093
 project-id = 1210171

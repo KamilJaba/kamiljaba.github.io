@@ -1,11 +1,11 @@
 name = "Whimscape x Cobblemon"
-filename = "Whimscape-x-Cobblemon-v1.6.1.zip"
+filename = "Whimscape x Cobblemon v1.6.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
 hash = "2fdb34e08f0400674b9011ea6a2698003e065fb5"
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Whimscape-x-Cobblemon-v1.6.1.zip"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
