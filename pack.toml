@@ -1,0 +1,10 @@
+name = "MayviewServerEdit"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "032e167fe384899dfe34ab22f6211823eb825074646c8ca7e29a77a926323fe3"
+
+[versions]
+minecraft = "1.21.1"

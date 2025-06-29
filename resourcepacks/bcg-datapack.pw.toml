@@ -1,0 +1,13 @@
+name = "BCG Datapack"
+filename = "Mayview Datapack 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1f1f262c210672ab86fffc481a45499a18965cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6607756
+project-id = 974532

@@ -1,0 +1,13 @@
+name = "Custom Cursor"
+filename = "customcursor-neoforge-2.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c1762fd7dede0e97032f6e4f13ed776ca4a256b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6490046
+project-id = 922951

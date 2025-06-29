@@ -1,0 +1,13 @@
+name = "BCG Sounds"
+filename = "Mayview Sounds 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1817ae6ee60e6756f9cc580f2e0954e91bf4f5b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6607750
+project-id = 987420

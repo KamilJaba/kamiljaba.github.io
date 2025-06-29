@@ -1,0 +1,13 @@
+{
+  "pointer": {
+    "x": 0.03125,
+    "y": 0.09375,
+    "size": 38,
+    "enabled": true,
+    "identifier": {
+      "namespace": "minecraft",
+      "path": "cursor.png",
+      "cachedString": "minecraft:cursor.png"
+    }
+  }
+}

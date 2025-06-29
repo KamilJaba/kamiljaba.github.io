@@ -1,0 +1,13 @@
+name = "Mayview Core"
+filename = "mayview-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bd5e297290d2d1ddb5d204fc7f236d7f6c04b1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6610387
+project-id = 1237355

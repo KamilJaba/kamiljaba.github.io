@@ -1,0 +1,13 @@
+name = "BCG Compatibility"
+filename = "Mayview Compatibility 1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9734c536621506240c62817a1707ba85980e2a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6610420
+project-id = 924777
