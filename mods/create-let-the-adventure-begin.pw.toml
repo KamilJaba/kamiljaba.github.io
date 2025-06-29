@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "2b639702747470973fefc141163a728a995d33ea"
-mode = "metadata:curseforge"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/create_ltab-2.7.8.jar"
 
 [update]
 [update.curseforge]
