@@ -3,7 +3,7 @@ filename = "skinlayers3d-neoforge-1.8.0-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/skinlayers3d-neoforge-1.8.0-mc1.21.jar"
 hash-format = "sha1"
 hash = "1b118d6e95866ef0c411a21e56e03aa2549a1ea3"
 mode = "metadata:curseforge"

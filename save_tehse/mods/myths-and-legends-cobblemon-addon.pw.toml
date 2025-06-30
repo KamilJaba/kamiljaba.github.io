@@ -3,7 +3,7 @@ filename = "MythsAndLegends-neoforge-1.7.2-Hotfix.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/MythsAndLegends-neoforge-1.7.2-Hotfix.jar"
 hash-format = "sha1"
 hash = "76e27ed22d70111de2baf8f0da110fbd6dd6ad21"
 mode = "metadata:curseforge"
