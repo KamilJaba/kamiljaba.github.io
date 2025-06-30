@@ -2977,7 +2977,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7565bfbca3ac23222581e08649c49244362efc6cd806f39acf19f01bb4db4bbb"
+hash = "e97ab350d89fe26c869b4b139c1dc669adbc7cbaedb3c799b17e39d15d896d8b"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
@@ -3049,7 +3049,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "e7ad05e713f21c46a6600a0c7c0cfa71c7fe60411176365973ced67df103e408"
+hash = "0b2824c12476cdb788e6bcfbd36a548ba8d9054cb0418eeca63241739007f9e3"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.txt"
