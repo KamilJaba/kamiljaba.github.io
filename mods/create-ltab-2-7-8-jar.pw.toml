@@ -1,6 +1,5 @@
-name = "Create: Let The Adventure Begin"
+name = "create_ltab-2.7.8.jar"
 filename = "create_ltab-2.7.8.jar"
-side = "both"
 
 [download]
 url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/create_ltab-2.7.8.jar"

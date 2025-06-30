@@ -1784,11 +1784,6 @@ hash = "cfaa2ff43f55856f317eb980915b502f3b2bd5c9ae4374d0ae166c5d75540a24"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "21cc6e0c01d5c3ca01d4c6158da00ddf9233467dce7591cf95499f14d6500979"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
 metafile = true
@@ -1846,6 +1841,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "7882306ee3aa83624ad9dbdd942432d2232429d0c0335069b5287e85581b91cc"
+metafile = true
+
+[[files]]
+file = "mods/bwncr-neoforge-1-21-1-3-20-3-jar.pw.toml"
+hash = "e1b5b7a0cbbbc62f561205efc1877a2eb40a664f33ef64134090c40f12c1e171"
 metafile = true
 
 [[files]]
@@ -2024,18 +2024,8 @@ hash = "cb5551099bb4df8beba8029a47b9a256ae5f5a05b4bf304eaaab7a964dc9fef1"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "3c19e58fc39c41aa441bab32fcb80e3377efe614b4a92583cc75ac91eb812b6d"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "90f38f6a4539b7f69be95865e409157605e7aad6d3a7f673b84f552caec3ccd1"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "46ca29709ae089b984f0934b4a9736268d23050389557f8013747b7a1a8a9f25"
 metafile = true
 
 [[files]]
@@ -2074,8 +2064,8 @@ hash = "5437b27ef439bfb125e84c06c6d8c5c449341a8c20109ab9cfa7ee39a93a80e3"
 metafile = true
 
 [[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "b2c9a252cd2f0216702851f79a2af17d18f696fbbba4b521006216bb8068af74"
+file = "mods/create-ltab-2-7-8-jar.pw.toml"
+hash = "2488c0a044008b4790639bf84d0ad432ccd066ce4caaed62fa44b949b0dbe730"
 metafile = true
 
 [[files]]
@@ -2094,8 +2084,8 @@ hash = "2aa04780e122de0a4bc4fd8c29533a681f58afd3818b2c2d63e815e0849eadf8"
 metafile = true
 
 [[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "21d445633895a9edc82ea9cc1a9254b7cc8e7cb4908b01e0bec99065cc103758"
+file = "mods/create-structures-arise-160-33-32-neoforge-1-21-1-jar.pw.toml"
+hash = "f0a2b6e8ebc7209ebd7b0786708407d3ae65dabb7e6d34c0defba043bec693d8"
 metafile = true
 
 [[files]]
@@ -2139,8 +2129,13 @@ hash = "0b82fcae8d50a97bcdf38103f3316e9fb2c57f7d217ee9c880a2126a871d7b2b"
 metafile = true
 
 [[files]]
-file = "mods/cute-companions-ducks.pw.toml"
-hash = "2ac0e0a108358a85281fdfc6be4442014e4b20c81656ee83b46ed66718f3a340"
+file = "mods/cute-companions-ducks-0-0-2-neoforge-1-21-1-jar.pw.toml"
+hash = "a4231eca8b13b3e4d34ad187ce713be0f1d09dabd4dd2b1c2a30e253a394a1fa"
+metafile = true
+
+[[files]]
+file = "mods/design-n-decor-1-21-1-2-0-2-jar.pw.toml"
+hash = "3ed63375f5aae9fc7138e34d0a2aae5d9e40316d5bae3bf00e691f7d54152a5f"
 metafile = true
 
 [[files]]
@@ -2156,6 +2151,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "68379d0a55b328fd389cbab544b62d66a1336647102e9222de183c04b1e3ef12"
+metafile = true
+
+[[files]]
+file = "mods/dndesires-1-21-1-2-1b-beta-jar.pw.toml"
+hash = "19261b9196351228ade98d6c944d538eb2b97c6bcd2c7021b582134c03713b7f"
 metafile = true
 
 [[files]]
@@ -2184,8 +2184,8 @@ hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
 metafile = true
 
 [[files]]
-file = "mods/eggs-cobblemon-addon.pw.toml"
-hash = "c60f34fad3bcd498849b6481f64f28d6f7381b9ce443832acfe17b5434c92fcb"
+file = "mods/eggs-cobblemon-addon-0-7-jar.pw.toml"
+hash = "73095e8dd085cded683bc5477e4fa0a03fff3bcad0c492b3b960a8ac60105f24"
 metafile = true
 
 [[files]]
@@ -2219,8 +2219,8 @@ hash = "f885fa3bea3969aa0dac1ec6f3f49ca7e894208ab9a2e69ed4aa649f67d3722d"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "ca28efb30848116fefea5f7c3f4c15d87d82df4034bb9071015cd06ccf6e39f9"
+file = "mods/entityculling-neoforge-1-8-0-mc1-21-jar.pw.toml"
+hash = "1c2c3ac22bc1339079fe3c0139b3ce81957c9ee4768721a9a3104129e101e3e9"
 metafile = true
 
 [[files]]
@@ -2594,8 +2594,8 @@ hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
 metafile = true
 
 [[files]]
-file = "mods/myths-and-legends-cobblemon-addon.pw.toml"
-hash = "9516e75d00765879e89b6dbe85804ec03e78549019c1a9f32c74d2a2db3a47f8"
+file = "mods/mythsandlegends-neoforge-1-7-2-hotfix-jar.pw.toml"
+hash = "a2c8b270dc87a6cd4d69430c2fbef9ffa963f2f7d7121fc0771ca2e2f25efcca"
 metafile = true
 
 [[files]]
@@ -2759,8 +2759,8 @@ hash = "c9a922044e42e497c2ce5e782c87d308b9ac7ec1d2dd2409e502ed899a818d91"
 metafile = true
 
 [[files]]
-file = "mods/rustic-delight.pw.toml"
-hash = "5f8d5ff3b105940558d9758d5af5c11602b62baad5372ecf7ac7ae82c46e9923"
+file = "mods/rusticdelight-neoforge-1-21-1-4-2-jar.pw.toml"
+hash = "bbdb7270273da559638a5cd19ce5fe958ba49f1832fd1b32c7932bcdeb1461fc"
 metafile = true
 
 [[files]]
@@ -2799,8 +2799,8 @@ hash = "6328ca202b88bb097d03a263806104036aa20dcc2dd5e1a99ee0b20d007d1f2f"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "ad91914b385e52df47aca2b1731c883f2d127e023fe7b801198b1b8cc5718539"
+file = "mods/skinlayers3d-neoforge-1-8-0-mc1-21-jar.pw.toml"
+hash = "6f2092aac29d7f77b4128402196fe5e617e96b4d36258162ff32ad68eed4cb7f"
 metafile = true
 
 [[files]]
@@ -2864,8 +2864,8 @@ hash = "50f84e706937862cec28f3f59c9b4a7706ea7259b0f65d4f84b50db7ecfc7b49"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "4766ccac47309b27cb90702ac00354dbf3ef9f559b3f335b70537a68beadd1b2"
+file = "mods/structory-1-21-x-v1-3-11-jar.pw.toml"
+hash = "8306b87c529c796ff048f75bd6900928a56a6a319e223d09db88fde4cfd419dc"
 metafile = true
 
 [[files]]

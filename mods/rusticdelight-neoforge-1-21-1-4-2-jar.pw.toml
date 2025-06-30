@@ -1,6 +1,5 @@
-name = "Rustic Delight"
+name = "rusticdelight-neoforge-1.21-1.4.2.jar"
 filename = "rusticdelight-neoforge-1.21-1.4.2.jar"
-side = "both"
 
 [download]
 url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/rusticdelight-neoforge-1.21-1.4.2.jar"
