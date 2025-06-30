@@ -2421,18 +2421,8 @@ hash = "63777b41574a0a991a58257a9d90194f605d2a6b74cbc19e81e4006e51985cb5"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
-metafile = true
-
-[[files]]
 file = "mods/joes-ores.pw.toml"
 hash = "f98ba42c8ead1f3939790a5c64f35a39bc2366020e83ba8353375f866abeb1d9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-immersive-multiblocks.pw.toml"
-hash = "74e48fe428d18a31490b957a9f3ea8fa580843f49efd3b499903a35322c5cf2e"
 metafile = true
 
 [[files]]
