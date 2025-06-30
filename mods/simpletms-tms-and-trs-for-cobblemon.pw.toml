@@ -3,12 +3,6 @@ filename = "SimpleTMs-neoforge-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/SimpleTMs-neoforge-2.1.2.jar"
 hash-format = "sha1"
 hash = "3dc6996d184437d03ea7f4258d3cd3389cbe0b4a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6402412
-project-id = 959184

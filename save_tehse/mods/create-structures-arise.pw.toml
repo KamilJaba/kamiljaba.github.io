@@ -3,7 +3,7 @@ filename = "create_structures_arise-160.33.32-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/create_structures_arise-160.33.32-neoforge-1.21.1.jar"
 hash-format = "sha1"
 hash = "4a1408c076e0a3e9f4670149ab5f1e7f2cc3323b"
 mode = "metadata:curseforge"

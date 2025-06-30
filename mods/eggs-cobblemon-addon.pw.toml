@@ -3,12 +3,6 @@ filename = "eggs-cobblemon-addon-0.7.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/"
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/eggs-cobblemon-addon-0.7.jar"
 hash-format = "sha1"
 hash = "f0c010aec1f7a8d10046d8efccbd1b335df6f065"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6636142
-project-id = 1145868
