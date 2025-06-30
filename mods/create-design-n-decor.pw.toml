@@ -3,9 +3,9 @@ filename = "Design-n-Decor-1.21.1-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Design-n-Decor-1.21.1-2.0.2.jar"
 hash-format = "sha1"
 hash = "4d9b15c2395868c93a214281ced82e21b74f46ef"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

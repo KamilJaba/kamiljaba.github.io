@@ -1,0 +1,13 @@
+name = "Additional items for Cobblemon"
+filename = "cobblemon_progress_items-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5391a4b509d7c5fab184a6b3a830ef80b9ec7b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6537407
+project-id = 1170428

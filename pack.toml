@@ -1,11 +1,12 @@
-name = "MayestView"
-version = "1.0.0"
+name = "Mayview"
+author = "jflec"
+version = "Beta 0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "86d941c3294b5a8002ba27ac5e6c730308e8133e6f2cc54962222074a199db93"
+hash = "a84db1fbb0e4d26b0a3fafaa93be1521931c74a95a4afdf9487d60f270d4b051"
 
 [versions]
 minecraft = "1.21.1"

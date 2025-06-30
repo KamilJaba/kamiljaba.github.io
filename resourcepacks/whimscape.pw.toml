@@ -1,0 +1,13 @@
+name = "Whimscape"
+filename = "Whimscape_1.20.2-1.21.6_r1.zip"
+side = "both"
+
+[download]
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Whimscape_1.20.2-1.21.6_r1.zip"
+hash-format = "sha1"
+hash = "6fbaa27b715c0891168e7bd0db1462ec7e5af8fe"
+
+[update]
+[update.curseforge]
+file-id = 6661674
+project-id = 682643

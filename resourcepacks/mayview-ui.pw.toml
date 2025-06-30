@@ -1,0 +1,13 @@
+name = "Mayview UI"
+filename = "Mayview_UI_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Mayview_UI_1.0.0.zip"
+hash-format = "sha1"
+hash = "6accd51d4fbcac5a899068998b1d72d46e27bf97"
+
+[update]
+[update.curseforge]
+file-id = 6607758
+project-id = 1237235

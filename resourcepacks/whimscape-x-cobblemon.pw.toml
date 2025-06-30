@@ -1,0 +1,13 @@
+name = "Whimscape x Cobblemon"
+filename = "Whimscape_x_Cobblemon_v1.6.1.zip"
+side = "both"
+
+[download]
+url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/Whimscape_x_Cobblemon_v1.6.1.zip"
+hash-format = "sha1"
+hash = "2fdb34e08f0400674b9011ea6a2698003e065fb5"
+
+[update]
+[update.curseforge]
+file-id = 6372642
+project-id = 1129776

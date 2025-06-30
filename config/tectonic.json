@@ -7,7 +7,7 @@
   },
   "continents": {
     "continents_scale": 0.13,
-    "erosion_scale": 0.25,
+    "erosion_scale": 0.15,
     "flat_terrain_skew": 0.1,
     "jungle_pillars": true,
     "ocean_offset": -0.8,
@@ -23,7 +23,7 @@
   "global_terrain": {
     "increased_height": false,
     "lava_tunnels": true,
-    "vertical_scale": 1.125
+    "vertical_scale": 1.075
   },
   "islands": {
     "enabled": true,
@@ -32,7 +32,7 @@
   "oceans": {
     "deep_ocean_depth": -0.45,
     "monument_offset": -30,
-    "ocean_depth": -0.22,
+    "ocean_depth": -0.15,
     "remove_frozen_ocean_ice": false
   }
 }

@@ -3,9 +3,9 @@ filename = "entityculling-neoforge-1.8.0-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://kamiljaba.github.io/extra_needed_mods/mayestview1.0/entityculling-neoforge-1.8.0-mc1.21.jar"
 hash-format = "sha1"
 hash = "449435a11ce43e21067eca6a6169c41d4a53f290"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
