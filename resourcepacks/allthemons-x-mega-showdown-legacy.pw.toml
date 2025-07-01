@@ -1,0 +1,13 @@
+name = "AllTheMons x Mega Showdown"
+filename = "AllTheMons x Mega Showdown [v2.6.2].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odZZdRCE/versions/7MNvIrwI/AllTheMons%20x%20Mega%20Showdown%20%5Bv2.6.2%5D.zip"
+hash-format = "sha512"
+hash = "d1819404f6ca364fb5eb3e13ffd9f6cbc992c19fa86253d0d47606e6ea8016028c35b06f8090d5194ae160731c417216677ed481d9be40e3b967bb63ee173d90"
+
+[update]
+[update.modrinth]
+mod-id = "odZZdRCE"
+version = "7MNvIrwI"

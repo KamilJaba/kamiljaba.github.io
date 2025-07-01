@@ -1916,11 +1916,6 @@ hash = "2e55982e7b808561a0096863730b5c83f8fba36a7cce81d1ef1a6d9330f9b63f"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-legends-untold-reborn.pw.toml"
-hash = "b1fd53fc885f54586ebfa4864dc2ff2db82805584c36ca436e49050251bd9ee6"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "cb82023b43860971ebcde4c3cee5d97192bcb2f4439fd6f64776c2e87d6b2a06"
 metafile = true
@@ -2168,11 +2163,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
-metafile = true
-
-[[files]]
-file = "mods/eggs-cobblemon-addon-0-7-jar.pw.toml"
-hash = "73095e8dd085cded683bc5477e4fa0a03fff3bcad0c492b3b960a8ac60105f24"
 metafile = true
 
 [[files]]
@@ -2986,6 +2976,11 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "8395686c454607fece70b94066eaee49f477e40d2efe14b6f303a9ced8793ac3"
+metafile = true
 
 [[files]]
 file = "resourcepacks/bcg-compatibility.pw.toml"
