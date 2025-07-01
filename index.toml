@@ -2971,7 +2971,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e97ab350d89fe26c869b4b139c1dc669adbc7cbaedb3c799b17e39d15d896d8b"
+hash = "ad0ce8f6fd6a064285dd0a7726e4e719db339087ad291711254880ca1ad32eb5"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"

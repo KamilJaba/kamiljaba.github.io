@@ -49,7 +49,7 @@ mouseSensitivity:0.3036923652941887
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","file/Mayview x Whimscape 1.0.0.zip","file/FreshAnimations_v1.9.2.zip","betterbeds:fancyconnectedbeds","file/E19 Cobblemon Minimap Icons.zip","file/Icon Fresh 1.2.zip","file/Serified Font v1.1 f1-34.zip","file/Mayview Sounds 1.0.0.zip","file/Mayview Compatibility 1.0.1.zip","file/Whimscape_1.20.2-1.21.6_r1.zip","file/Whimscape_x_Cobblemon_v1.6.1.zip","file/Whimscape_x_Exploration_v1.0.zip","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/gyaradosjump","file/Mayview Datapack 1.0.0.zip","file/Mayview_UI_1.0.0.zip","classic_icons"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","file/Mayview x Whimscape 1.0.0.zip","file/FreshAnimations_v1.9.2.zip","betterbeds:fancyconnectedbeds","file/E19 Cobblemon Minimap Icons.zip","file/Icon Fresh 1.2.zip","file/Serified Font v1.1 f1-34.zip","file/Mayview Sounds 1.0.0.zip","file/Mayview Compatibility 1.0.1.zip","file/Whimscape_1.20.2-1.21.6_r1.zip","file/Whimscape_x_Cobblemon_v1.6.1.zip","file/Whimscape_x_Exploration_v1.0.zip","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/gyaradosjump","file/Mayview Datapack 1.0.0.zip","file/Mayview_UI_1.0.0.zip","classic_icons","file/AllTheMons x Mega Showdown [v2.6.2].zip","file/MysticMonsforMegaShowdownv9.5.2.zip"]
 incompatibleResourcePacks:["file/Serified Font v1.1 f1-34.zip"]
 lastServer:joe was here
 lang:en_us
